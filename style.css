@@ -17,3 +17,7 @@ body{
     border-style:solid;
     border-color:black;
 }
+.paragraph{
+    font-size:medium;
+    font-family:fantasy;
+}
