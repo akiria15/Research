@@ -16,12 +16,10 @@ body{
 .table{
     border-style:solid;
     border-color:black;
+    grid-row:span;
 }
 .paragraph, h1{
     font-size:larger;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align:left;
-}
-.image{
-
 }
