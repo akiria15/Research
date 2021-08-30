@@ -17,7 +17,7 @@ body{
     border-style:solid;
     border-color:black;
 }
-.paragraph{
+.paragraph, h1{
     font-size:large;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
