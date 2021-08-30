@@ -17,6 +17,7 @@ body{
     border-style:solid;
     border-color:black;
     grid-row:span;
+    border-color:black;
 }
 .paragraph, h1{
     font-size:larger;
